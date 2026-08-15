@@ -1,0 +1,5 @@
+# Generated Hugo output and local development files
+public/
+resources/
+.hugo_build.lock
+

@@ -1,0 +1,9 @@
+theme = "reimu"
+baseURL = "http://localhost:1313/"
+languageCode = "zh-tw"
+title = "熔岩史萊姆的blog"
+
+[params]
+author = "熔岩史萊姆"
+email = "robox0814@gmail.con"
+description = "這個人是nig"
