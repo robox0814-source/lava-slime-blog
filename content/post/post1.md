@@ -1,5 +1,10 @@
-+++
-date = '2026-09-24T20:10:26+08:00'
-draft = true
-title = 'Post1'
-+++
+---
+title: "準備開始備考AIS3"
+date: 2026-09-24
+draft: false
+cover: "images/oar2.jpg"
+---
+
+# 備考AIS3
+
+再不備考要出事了
